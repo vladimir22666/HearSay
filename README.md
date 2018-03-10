@@ -42,8 +42,8 @@ To quickly deploy a working bot that you can add to your discord server follow t
     * Click the **click to reveal** link next to **Token:**
     * Take note of the **Token**, you will need it later
 4. Deploy to Now
-  * [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/NotMyself/Louie/tree/now-deployment&env=DISCORD_CLIENT_ID&env=DISCORD_TOKEN&env=DISCORD_BOT_OWNER_ID)
-  * Fill out the form with the values from your Discord app
+  * Click [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/NotMyself/Louie/tree/now-deployment&env=DISCORD_CLIENT_ID&env=DISCORD_TOKEN&env=DISCORD_BOT_OWNER_ID)
+  * Fill out the form with the values you saved earlier
   * Click the **Deploy** button
 
 ## Commands
