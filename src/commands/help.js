@@ -75,7 +75,7 @@ const helpMessage = function(config, botname, param)
    //
    // Help Basics
    //
-
+   /*eslint-disable max-len*/
    const basics =
    helpSection({
       config: config,
